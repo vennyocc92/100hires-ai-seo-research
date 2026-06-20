@@ -49,10 +49,11 @@ research/
 ## Research Summary
 
 **Research Scope:**
-- **10 verified industry experts** in AI-powered SEO and B2B SaaS marketing
-- **50 LinkedIn posts** collected and organized by expert
-- **30 YouTube transcripts** from 3 videos per expert
-- **Additional research materials** including expert profiles and verification documentation
+
+- 10 verified industry experts
+- LinkedIn posts organized by expert
+- YouTube transcripts organized by expert
+- Supporting research materials including expert profiles and verification documentation
 
 **Experts Included:**
 1. Neil Patel (Neil Patel Digital & Ubersuggest)
