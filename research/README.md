@@ -105,5 +105,4 @@ The structured data format enables systematic analysis and synthesis of expert p
 
 **Last Updated:** June 20, 2026  
 **Status:** Research Complete  
-**Repository:** https://github.com/vennyocc92/100hires-ai-seo-research
 
