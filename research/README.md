@@ -91,6 +91,13 @@ Their combined perspectives represent diverse approaches to AI-powered B2B SaaS 
 
 All expert profiles, links, and content sources are publicly available and independently verifiable through LinkedIn, YouTube, and other public platforms.
 
+**Selection Criteria**
+Experts were selected based on:
+• Active professional role in SEO/B2B SaaS
+• Public educational content
+• Demonstrated expertise in AI-assisted SEO workflows
+• Consistent publication across LinkedIn, YouTube, blogs or podcasts
+
 ## Notes
 
 This repository serves as a **research foundation** for building an AI-powered SEO playbook. The curated expert content provides insights into:
