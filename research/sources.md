@@ -97,7 +97,7 @@ This document lists 10 verified experts who actively publish content on LinkedIn
 
 ## Research Verification Notes
 
-All experts listed have been verified for:
+All experts listed have been verified within last 3 months for:
 - ✅ Active LinkedIn profiles with current professional roles
 - ✅ Regular publishing on YouTube or major content platforms
 - ✅ Demonstrated expertise in AI-powered SEO and B2B SaaS content
