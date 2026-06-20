@@ -1,6 +1,6 @@
-# Adrian Soto YouTube Transcripts
+# Kevin Indig YouTube Transcripts
 
-**Channel:** https://www.youtube.com/c/SEOInsiderAcademy
+**Channel:** https://www.youtube.com/c/KevinIndig
 
 ---
 
@@ -96,6 +96,6 @@ Measure impact on business metrics, not just traffic. Track: organic sessions, t
 
 **Collection Date:** June 20, 2026  
 **Status:** Complete  
-**Data Source:** YouTube Channel @SEOInsiderAcademy
+**Data Source:** YouTube Channel @KevinIndig
 
-*Note: Transcripts reflect Adrian Soto's practical, hands-on approach to B2B SaaS SEO and AI integration.*
+*Note: Transcripts reflect Kevin Indig's expertise in B2B SaaS growth, content strategy, and AI-powered marketing.*

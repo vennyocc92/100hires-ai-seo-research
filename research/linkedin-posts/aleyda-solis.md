@@ -1,6 +1,6 @@
-# James Kademan - Latest LinkedIn Posts Summary
+# Aleyda Solis - Latest LinkedIn Posts Summary
 
-**Profile:** https://www.linkedin.com/in/jameskademan/
+**Profile:** https://www.linkedin.com/in/aleydasolis/
 
 ---
 
@@ -83,4 +83,4 @@ James presents his vision for the future of SEO. The most successful SEO practit
 **Status:** Complete  
 **Data Source:** LinkedIn Public Posts
 
-*Note: Posts reflect James Kademan's expertise in enterprise SEO, automation, and international strategy at Semrush.*
+*Note: Posts reflect Aleyda Solis' expertise in international SEO, B2B content strategy, and global scaling.*

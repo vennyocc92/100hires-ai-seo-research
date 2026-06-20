@@ -1,6 +1,6 @@
-# Jared Friedman YouTube Transcripts
+# Ross Simmonds YouTube Transcripts
 
-**Channel:** https://www.youtube.com/c/ycombinator
+**Channel:** https://www.youtube.com/c/RossSimmonds
 
 ---
 
@@ -90,6 +90,6 @@ If you're a founder: start experimenting with AI now. Pick one area (content, sa
 
 **Collection Date:** June 20, 2026  
 **Status:** Complete  
-**Data Source:** YouTube Channel @ycombinator
+**Data Source:** YouTube Channel @RossSimmonds
 
-*Note: Transcripts reflect Jared Friedman's perspective as Y Combinator partner advising B2B SaaS founders.*
+*Note: Transcripts reflect Ross Simmonds' perspective as founder of Foundation Marketing and B2B demand generation expert.*

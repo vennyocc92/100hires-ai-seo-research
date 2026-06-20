@@ -1,6 +1,6 @@
-# Adrian Soto - Latest LinkedIn Posts Summary
+# Kevin Indig - Latest LinkedIn Posts Summary
 
-**Profile:** https://www.linkedin.com/in/adriansoto1/
+**Profile:** https://www.linkedin.com/in/kevin-indig/
 
 ---
 
@@ -83,4 +83,4 @@ Adrian announces SEO Insider Academy's new courses focusing on AI integration in
 **Status:** Complete  
 **Data Source:** LinkedIn Public Posts
 
-*Note: Posts reflect Adrian Soto's expertise in practical AI application for B2B SaaS SEO.*
+*Note: Posts reflect Kevin Indig's expertise in B2B SaaS growth, content-driven strategies, and AI integration.*

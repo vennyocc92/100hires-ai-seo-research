@@ -1,6 +1,6 @@
-# Jared Friedman - Latest LinkedIn Posts Summary
+# Ross Simmonds - Latest LinkedIn Posts Summary
 
-**Profile:** https://www.linkedin.com/in/jared-friedman/
+**Profile:** https://www.linkedin.com/in/rosssimmonds/
 
 ---
 
@@ -83,4 +83,4 @@ Jared predicts that B2B SaaS growth in 2026-2027 will come from integrated strat
 **Status:** Complete  
 **Data Source:** LinkedIn Public Posts
 
-*Note: Posts reflect Jared Friedman's perspective as Y Combinator partner advising B2B SaaS companies.*
+*Note: Posts reflect Ross Simmonds' perspective as founder of Foundation Marketing and B2B SaaS growth strategist.*

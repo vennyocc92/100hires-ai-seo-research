@@ -1,6 +1,6 @@
-# James Kademan YouTube Transcripts
+# Aleyda Solis YouTube Transcripts
 
-**Channel:** https://www.youtube.com/c/Semrush
+**Channel:** https://www.youtube.com/c/AleydasOliseo
 
 ---
 
@@ -87,6 +87,6 @@ AI-assisted attribution will improve accuracy. Multi-touch attribution will beco
 
 **Collection Date:** June 20, 2026  
 **Status:** Complete  
-**Data Source:** YouTube Channel @Semrush
+**Data Source:** YouTube Channel @AleydasOliseo
 
-*Note: Transcripts reflect James Kademan's expertise in enterprise SEO, automation, international scaling, and business-focused strategy.*
+*Note: Transcripts reflect Aleyda Solis' expertise in international SEO, content strategy, and B2B SaaS scaling.*

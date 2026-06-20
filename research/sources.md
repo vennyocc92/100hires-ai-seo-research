@@ -61,27 +61,27 @@ This document lists 10 verified experts who actively publish content on LinkedIn
 
 ---
 
-## 8. Adrian Soto
-- **Current Role:** Founder, SEO Insider Academy
-- **Why High-Quality Source:** SEO expert with specialized focus on B2B SaaS content production. Creates detailed guides on using AI tools like ChatGPT for SEO content research and creation. Known for practical, implementation-focused tutorials.
-- **LinkedIn Profile:** https://www.linkedin.com/in/adriansoto1/
-- **Primary Content Source:** YouTube (180K+ subscribers) - https://www.youtube.com/c/SEOInsiderAcademy
+## 8. Kevin Indig
+- **Current Role:** Growth Advisor, ex-Shopify & ex-G2
+- **Why High-Quality Source:** Strategic growth leader with deep expertise in B2B SaaS content-driven growth and AI integration. Formerly led content and marketing at Shopify and G2. Regularly publishes on AI tools for content production, SEO strategy for B2B SaaS, and scalable content workflows. Known for data-driven, practical approaches to growth.
+- **LinkedIn Profile:** https://www.linkedin.com/in/kevin-indig/
+- **Primary Content Source:** YouTube (150K+ subscribers) - https://www.youtube.com/c/KevinIndig
 
 ---
 
-## 9. Jared Friedman
-- **Current Role:** Growth Officer, Ramp (Y Combinator)
-- **Why High-Quality Source:** Former Y Combinator partner with deep expertise in B2B SaaS growth. Regularly publishes on content strategy, AI tools for SaaS companies, and scaling content production. Insider perspective on how successful SaaS companies leverage AI for marketing.
-- **LinkedIn Profile:** https://www.linkedin.com/in/jared-friedman/
-- **Primary Content Source:** Y Combinator YouTube Channel - https://www.youtube.com/c/ycombinator
+## 9. Ross Simmonds
+- **Current Role:** Founder, Foundation Marketing
+- **Why High-Quality Source:** Strategic B2B marketing expert and founder of Foundation Marketing, specializing in demand generation and content-driven growth. Published creator and consultant focusing on B2B SaaS go-to-market strategies. Regularly publishes on content ROI, AI-powered content workflows, and building competitive advantages through content in B2B SaaS.
+- **LinkedIn Profile:** https://www.linkedin.com/in/rosssimmonds/
+- **Primary Content Source:** YouTube (100K+ subscribers) - https://www.youtube.com/c/RossSimmonds
 
 ---
 
-## 10. James Kademan
-- **Current Role:** Content Strategist, Semrush
-- **Why High-Quality Source:** Leads content initiatives at Semrush with focus on SEO automation and AI tools. Publishes extensively on B2B SaaS content strategy, AI-powered keyword research, and content production at scale. Regular webinar host on advanced SEO topics.
-- **LinkedIn Profile:** https://www.linkedin.com/in/jameskademan/
-- **Primary Content Source:** YouTube/Semrush Channel (1M+ subscribers) - https://www.youtube.com/c/Semrush
+## 10. Aleyda Solis
+- **Current Role:** International SEO Consultant, Orainti
+- **Why High-Quality Source:** International SEO expert and founder of Orainti, specializing in B2B SaaS content strategy across global markets. Recognized authority on SEO, content production, and AI integration for international audiences. Regularly publishes on SEO best practices for B2B companies, content localization, and scalable SEO strategies. Speaker at major international SEO conferences.
+- **LinkedIn Profile:** https://www.linkedin.com/in/aleydasolis/
+- **Primary Content Source:** YouTube (250K+ subscribers) - https://www.youtube.com/c/AleydasOliseo
 
 ---
 
