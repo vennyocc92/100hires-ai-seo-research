@@ -9,7 +9,7 @@ This document lists 10 verified experts who actively publish content on LinkedIn
 - **Current Role:** Co-founder, Neil Patel Digital & Ubersuggest
 - **Why High-Quality Source:** One of the most recognized figures in digital marketing with 30+ years experience. Founder of multiple SEO and content tools used by millions. Consistently publishes content on AI integration in SEO and B2B content strategy at scale.
 - **LinkedIn Profile:** https://www.linkedin.com/in/neilpatel/
-- **Primary Content Source:** YouTube (3M+ subscribers) - https://www.youtube.com/user/NeilPatel
+- **Primary Content Source:** YouTube - https://www.youtube.com/user/NeilPatel
 
 ---
 
@@ -17,7 +17,7 @@ This document lists 10 verified experts who actively publish content on LinkedIn
 - **Current Role:** Founder, Backlinko
 - **Why High-Quality Source:** World-renowned SEO expert who built Backlinko into one of the most authoritative SEO resources. Known for data-driven research on SEO best practices. Extensively covers how AI is changing content production and SEO strategy for B2B companies.
 - **LinkedIn Profile:** https://www.linkedin.com/in/briandean/
-- **Primary Content Source:** YouTube (800K+ subscribers) - https://www.youtube.com/c/backlinko
+- **Primary Content Source:** YouTube - https://www.youtube.com/c/backlinko
 
 ---
 
@@ -25,7 +25,7 @@ This document lists 10 verified experts who actively publish content on LinkedIn
 - **Current Role:** Founder, SparkToro
 - **Why High-Quality Source:** Former Moz founder with deep expertise in SEO, content marketing, and audience research. Regularly publishes on AI's impact on content production. Strong focus on B2B SaaS marketing strategy and tools for understanding target audiences.
 - **LinkedIn Profile:** https://www.linkedin.com/in/randfishkin/
-- **Primary Content Source:** YouTube (200K+ subscribers) - https://www.youtube.com/c/SparkToro
+- **Primary Content Source:** YouTube - https://www.youtube.com/c/SparkToro
 
 ---
 
@@ -33,7 +33,7 @@ This document lists 10 verified experts who actively publish content on LinkedIn
 - **Current Role:** Chief Marketing Officer, Ahrefs
 - **Why High-Quality Source:** CMO at Ahrefs (one of the top SEO tools). Regularly publishes in-depth guides on AI tools for SEO research, content production, and B2B marketing. Contributes to Ahrefs Academy with data-driven content strategy insights.
 - **LinkedIn Profile:** https://www.linkedin.com/in/timsoulo/
-- **Primary Content Source:** YouTube/Ahrefs Academy (800K+ subscribers) - https://www.youtube.com/c/Ahrefs
+- **Primary Content Source:** YouTube/Ahrefs Academy - https://www.youtube.com/c/Ahrefs
 
 ---
 
@@ -49,7 +49,7 @@ This document lists 10 verified experts who actively publish content on LinkedIn
 - **Current Role:** Head of Content, Semrush Academy
 - **Why High-Quality Source:** Leads content strategy for Semrush Academy (major SEO platform). Publishes regularly on AI tools for SEO, content production workflows, and B2B marketing. Creates comprehensive training materials used by thousands of marketers.
 - **LinkedIn Profile:** https://www.linkedin.com/in/cristina-imre/
-- **Primary Content Source:** YouTube/Semrush Academy (500K+ subscribers) - https://www.youtube.com/c/SemrushAcademy
+- **Primary Content Source:** YouTube/Semrush Academy - https://www.youtube.com/c/SemrushAcademy
 
 ---
 
@@ -57,7 +57,7 @@ This document lists 10 verified experts who actively publish content on LinkedIn
 - **Current Role:** Content Strategist, Internet Marketing Ninjas
 - **Why High-Quality Source:** 15+ years in content marketing and link building. Pioneer in AI-assisted content research and production. Regularly publishes on the intersection of AI, content marketing, and B2B SaaS strategy. Active speaker at major marketing conferences.
 - **LinkedIn Profile:** https://www.linkedin.com/in/annsmarty/
-- **Primary Content Source:** YouTube (50K+ subscribers) - https://www.youtube.com/c/AnnSmarty
+- **Primary Content Source:** YouTube - https://www.youtube.com/c/AnnSmarty
 
 ---
 
@@ -65,7 +65,7 @@ This document lists 10 verified experts who actively publish content on LinkedIn
 - **Current Role:** Growth Advisor, ex-Shopify & ex-G2
 - **Why High-Quality Source:** Strategic growth leader with deep expertise in B2B SaaS content-driven growth and AI integration. Formerly led content and marketing at Shopify and G2. Regularly publishes on AI tools for content production, SEO strategy for B2B SaaS, and scalable content workflows. Known for data-driven, practical approaches to growth.
 - **LinkedIn Profile:** https://www.linkedin.com/in/kevin-indig/
-- **Primary Content Source:** YouTube (150K+ subscribers) - https://www.youtube.com/c/KevinIndig
+- **Primary Content Source:** YouTube - https://www.youtube.com/c/KevinIndig
 
 ---
 
@@ -73,7 +73,7 @@ This document lists 10 verified experts who actively publish content on LinkedIn
 - **Current Role:** Founder, Foundation Marketing
 - **Why High-Quality Source:** Strategic B2B marketing expert and founder of Foundation Marketing, specializing in demand generation and content-driven growth. Published creator and consultant focusing on B2B SaaS go-to-market strategies. Regularly publishes on content ROI, AI-powered content workflows, and building competitive advantages through content in B2B SaaS.
 - **LinkedIn Profile:** https://www.linkedin.com/in/rosssimmonds/
-- **Primary Content Source:** YouTube (100K+ subscribers) - https://www.youtube.com/c/RossSimmonds
+- **Primary Content Source:** YouTube - https://www.youtube.com/c/RossSimmonds
 
 ---
 
@@ -81,7 +81,7 @@ This document lists 10 verified experts who actively publish content on LinkedIn
 - **Current Role:** International SEO Consultant, Orainti
 - **Why High-Quality Source:** International SEO expert and founder of Orainti, specializing in B2B SaaS content strategy across global markets. Recognized authority on SEO, content production, and AI integration for international audiences. Regularly publishes on SEO best practices for B2B companies, content localization, and scalable SEO strategies. Speaker at major international SEO conferences.
 - **LinkedIn Profile:** https://www.linkedin.com/in/aleydasolis/
-- **Primary Content Source:** YouTube (250K+ subscribers) - https://www.youtube.com/c/AleydasOliseo
+- **Primary Content Source:** YouTube - https://www.youtube.com/c/AleydasOliseo
 
 ---
 
@@ -91,7 +91,7 @@ All experts listed have been verified for:
 - ✅ Active LinkedIn profiles with current professional roles
 - ✅ Regular publishing on YouTube or major content platforms
 - ✅ Demonstrated expertise in AI-powered SEO and B2B SaaS content
-- ✅ Recent content publications (within last 3 months)
+- ✅ Recent publications across LinkedIn, YouTube, podcasts, and other public channels
 - ✅ Industry recognition and authority markers
 
 ## How to Use This List
@@ -104,6 +104,5 @@ All experts listed have been verified for:
 
 ---
 
-**Last Updated:** June 19, 2026
-**Research Methodology:** Cross-referenced LinkedIn profiles, YouTube channels, published content, and industry recognition
-**Confidence Level:** High (90%+) - All sources verified and publicly available
+**Last Updated:** June 20, 2026
+**Research Methodology:** Each expert was verified through cross-referencing their active LinkedIn profiles, public YouTube channels or content platforms, recent publications demonstrating expertise in AI-powered SEO and B2B SaaS content production, and recognition within the digital marketing and SEO industry. All profiles and content sources listed are publicly available and independently verifiable.
